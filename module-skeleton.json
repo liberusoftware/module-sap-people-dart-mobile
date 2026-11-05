@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-people-dart-mobile",
+  "capabilityKey": "planned:sap:people",
+  "presentation": "dart-mobile",
+  "package": "module_sap_people_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/sap/nextjs/people.md",
+  "presentationPlan": "projects/sap/features/people.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
